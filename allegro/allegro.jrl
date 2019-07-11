@@ -1,0 +1,1356 @@
+\t (00:00:24) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:24)     Journal start - Thu Jul 11 09:17:42 2019
+\t (00:00:24)         Host=USER-PC User=user Pid=4576 CPUs=4
+\t (00:00:24) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:24) 
+\d (00:00:24) Design opened: C:/Users/user/Desktop/workspace/ex2_rlc/allegro/ex2_rlc.brd
+\i (00:00:24) generaledit 
+\i (00:00:43) delete 
+\i (00:00:44) pick grid 62.482 32.010
+\t (00:00:44) last pick:  62.230 31.750
+\t (00:00:44) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:00:48) pick grid 77.580 31.598
+\t (00:00:48) last pick:  77.470 31.750
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 78.060 33.108
+\i (00:00:48) trapsize 172
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 78.061 33.108
+\i (00:00:48) trapsize 86
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 77.992 33.177
+\i (00:00:49) trapsize 172
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 77.958 33.246
+\i (00:00:49) trapsize 343
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 10.291 31.873
+\i (00:00:50) trapsize 686
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in -9.199 35.854
+\i (00:00:51) trapsize 343
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in -9.405 35.855
+\i (00:00:51) trapsize 172
+\i (00:00:51) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out -3.331 35.889
+\i (00:00:52) trapsize 343
+\i (00:01:46) pick grid 7.374 41.585
+\t (00:01:46) last pick:  7.620 41.275
+\t (00:01:46) Symbol "Mtg125"
+\i (00:01:58) drag_start grid 20.825 13.928
+\i (00:01:58) drag_stop 16.982 11.389
+\i (00:01:59) pick grid 22.129 13.173
+\t (00:01:59) last pick:  22.225 13.335
+\i (00:02:01) pick grid 80.051 17.291
+\t (00:02:01) last pick:  80.010 17.145
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 75.521 16.742
+\i (00:02:01) trapsize 172
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 75.521 16.743
+\i (00:02:01) trapsize 86
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 75.419 16.726
+\i (00:02:01) trapsize 172
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 75.350 16.726
+\i (00:02:01) trapsize 343
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 75.144 16.726
+\i (00:02:01) trapsize 686
+\i (00:02:03) undo 
+\i (00:02:03) trapsize 343
+\i (00:02:03) generaledit 
+\i (00:02:05) pick grid 64.335 27.961
+\t (00:02:05) last pick:  64.135 27.940
+\i (00:02:06) pick grid 83.550 25.696
+\t (00:02:06) last pick:  83.820 25.400
+\i (00:02:07) delete 
+\i (00:02:08) pick grid 64.197 31.255
+\t (00:02:08) last pick:  64.135 31.115
+\t (00:02:08) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:02:08) pick grid 78.746 28.030
+\t (00:02:08) last pick:  78.740 27.940
+\i (00:02:10) pick grid 43.472 22.814
+\t (00:02:10) last pick:  43.180 22.860
+\t (00:02:10) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:02:12) undo 
+\i (00:02:12) trapsize 343
+\i (00:02:12) generaledit 
+\i (00:02:13) delete 
+\i (00:02:13) pick grid 65.295 29.059
+\t (00:02:13) last pick:  65.405 29.210
+\t (00:02:13) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:02:14) pick grid 87.050 25.491
+\t (00:02:14) last pick:  86.995 25.400
+\i (00:02:14) prepopup 85.541 25.491
+\i (00:02:15) done 
+\i (00:02:15) generaledit 
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 75.795 25.696
+\i (00:02:15) trapsize 172
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out 75.624 25.662
+\i (00:02:16) trapsize 343
+\i (00:02:39) shape add rect 
+\i (00:02:49) setwindow form.mini
+\i (00:02:49) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) pick grid 11.388 17.221
+\t (00:02:51) last pick:  11.430 17.145
+\i (00:02:53) prepopup 75.486 23.260
+\i (00:02:55) oops 
+\i (00:03:03) setwindow form.mini
+\i (00:03:03) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:03:12) FORM mini class ETCH 
+\i (00:03:14) FORM mini subclass BOTTOM 
+\i (00:03:15) FORM mini dyns_netname_list  
+\i (00:03:17) fillin "Gnd"
+\t (00:03:17) Assigning selected shape to net: GND
+\i (00:03:19) setwindow pcb
+\i (00:03:19) pick grid 11.731 17.083
+\t (00:03:19) last pick:  11.684 17.145
+\i (00:03:19) pick grid 24.770 7.064
+\t (00:03:19) last pick:  24.765 7.112
+\i (00:03:22) prepopup 32.731 19.279
+\i (00:03:23) done 
+\i (00:03:23) generaledit 
+\i (00:03:30) shape merge shapes 
+\t (00:03:30) Pick primary shape to merge to
+\i (00:03:30) pick grid 19.211 9.740
+\t (00:03:30) last pick:  19.177 9.779
+\t (00:03:30) Pick shapes to be merged
+\i (00:03:30) pick grid 36.849 17.289
+\t (00:03:30) last pick:  36.830 17.272
+\i (00:03:33) prepopup 36.711 17.495
+\i (00:03:33) done 
+\i (00:03:33) generaledit 
+\i (00:03:42) shape add rect 
+\i (00:03:44) setwindow form.mini
+\i (00:03:44) FORM mini subclass TOP 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) pick grid -0.965 48.309
+\t (00:03:47) last pick:  -1.016 48.260
+\i (00:03:47) pick grid 75.966 0.132
+\t (00:03:47) last pick:  75.946 0.127
+\i (00:03:51) prepopup 63.888 23.397
+\i (00:03:51) done 
+\i (00:03:51) generaledit 
+\i (00:03:56) zoom out 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom out 22.025 34.378
+\i (00:03:56) trapsize 686
+\i (00:03:56) zoom out 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom out 22.162 34.514
+\i (00:03:56) trapsize 1373
+\i (00:03:57) zoom in 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom in 35.922 37.569
+\i (00:03:57) trapsize 686
+\i (00:03:59) zoom in 1 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) zoom in -6.353 -1.960
+\i (00:03:59) trapsize 343
+\i (00:04:02) pick grid 79.844 21.648
+\t (00:04:02) last pick:  79.883 21.590
+\i (00:04:02) prepopup 79.844 21.648
+\i (00:04:41) delete 
+\i (00:04:42) pick grid 62.687 35.786
+\t (00:04:42) last pick:  62.738 35.814
+\t (00:04:42) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:04:42) prepopup 78.608 30.845
+\i (00:04:43) done 
+\i (00:04:43) generaledit 
+\i (00:05:01) pick grid 69.961 43.609
+\t (00:05:01) last pick:  69.977 43.561
+\i (00:05:05) pick grid 66.873 40.041
+\t (00:05:05) last pick:  66.929 40.005
+\i (00:05:17) zcopy shape 
+\t (00:05:17) Select cline, cline segment, shape, rectangle or closed polygon.
+   (00:05:17) Loading cmds.cxt 
+\i (00:05:25) pick 66.873 30.227
+\t (00:05:25) last pick:  66.873 30.227
+\i (00:05:28) prepopup 78.814 29.129
+\i (00:05:28) pop Done 
+\i (00:05:28) generaledit 
+\i (00:05:29) zoom in 1 
+\i (00:05:29) setwindow pcb
+\i (00:05:29) zoom in 75.657 29.129
+\i (00:05:29) trapsize 172
+\i (00:05:30) zoom out 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom out 75.486 29.095
+\i (00:05:30) trapsize 343
+\i (00:05:35) zcopy shape 
+\t (00:05:35) Select cline, cline segment, shape, rectangle or closed polygon.
+\i (00:05:39) pick 66.908 28.065
+\t (00:05:39) last pick:  66.908 28.065
+\i (00:05:42) pick 66.770 28.065
+\t (00:05:42) last pick:  66.770 28.065
+\i (00:05:43) pick 66.770 28.065
+\t (00:05:43) last pick:  66.770 28.065
+\i (00:05:43) pick dbl 66.770 28.065
+\t (00:05:43) last pick:  66.770 28.065
+\i (00:05:43) pick 66.770 28.065
+\t (00:05:43) last pick:  66.770 28.065
+\i (00:05:43) pick dbl 66.770 28.065
+\t (00:05:43) last pick:  66.770 28.065
+\i (00:05:44) pick 66.770 28.065
+\t (00:05:44) last pick:  66.770 28.065
+\i (00:05:44) pick dbl 66.770 28.065
+\t (00:05:44) last pick:  66.770 28.065
+\i (00:05:46) undo 
+\i (00:05:46) trapsize 343
+\i (00:05:46) generaledit 
+\i (00:05:47) undo 
+\i (00:05:47) trapsize 343
+\i (00:05:47) generaledit 
+\i (00:05:50) zcopy shape 
+\t (00:05:50) Select cline, cline segment, shape, rectangle or closed polygon.
+\i (00:05:53) pick 66.804 29.815
+\t (00:05:53) last pick:  66.804 29.815
+\i (00:05:54) prepopup 75.726 29.472
+\i (00:05:55) pop Done 
+\i (00:05:55) generaledit 
+\i (00:06:15) zcopy shape 
+\t (00:06:15) Select cline, cline segment, shape, rectangle or closed polygon.
+\i (00:06:21) setwindow form.mini
+\i (00:06:21) FORM mini dynamic_shape YES 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) pick 66.804 29.746
+\t (00:06:22) last pick:  66.804 29.746
+\i (00:06:39) shape select 
+\i (00:06:43) setwindow form.mini
+\i (00:06:43) FORM mini dyns_netname_list  
+\i (00:06:47) fillin "Gnd"
+\t (00:06:47) Assigning selected shape to net: GND
+\i (00:06:48) setwindow pcb
+\i (00:06:48) pick grid 67.010 24.462
+\t (00:06:48) last pick:  67.056 24.511
+\i (00:06:52) undo 
+\i (00:06:52) trapsize 343
+\i (00:06:52) generaledit 
+\i (00:06:55) undo 
+\i (00:06:55) trapsize 343
+\i (00:06:55) generaledit 
+\i (00:06:55) undo 
+\i (00:06:55) trapsize 343
+\i (00:06:56) generaledit 
+\i (00:07:00) zcopy shape 
+\t (00:07:00) Select cline, cline segment, shape, rectangle or closed polygon.
+\i (00:07:03) pick 66.942 31.805
+\t (00:07:03) last pick:  66.942 31.805
+\i (00:07:06) prepopup 76.549 33.247
+\i (00:07:07) pop Done 
+\i (00:07:07) generaledit 
+\i (00:07:27) drag_start grid 7.235 41.962
+\i (00:07:27) move 
+\t (00:07:27) last pick:  8.001 41.402
+\t (00:07:27) Pick new location for the element(s).
+\i (00:07:28) drag_stop grid 3.804 45.531
+\i (00:07:28) generaledit 
+\i (00:07:29) drag_start grid 4.284 44.707
+\i (00:07:29) move 
+\t (00:07:29) last pick:  3.810 45.593
+\t (00:07:29) Pick new location for the element(s).
+\i (00:07:29) drag_stop grid 6.000 43.747
+\i (00:07:29) generaledit 
+\i (00:07:30) drag_start grid 6.000 43.747
+\i (00:07:30) move 
+\t (00:07:30) last pick:  5.969 43.688
+\t (00:07:30) Pick new location for the element(s).
+\i (00:07:31) drag_stop grid 5.657 44.639
+\i (00:07:31) generaledit 
+\i (00:07:32) drag_start grid 5.657 44.158
+\i (00:07:32) move 
+\t (00:07:32) last pick:  5.715 44.577
+\t (00:07:32) Pick new location for the element(s).
+\i (00:07:33) drag_stop grid 5.039 43.952
+\i (00:07:33) generaledit 
+\i (00:07:33) pick grid 5.314 43.609
+\t (00:07:33) last pick:  5.334 43.561
+\i (00:07:34) pick grid 5.863 44.158
+\t (00:07:34) last pick:  5.842 44.196
+\i (00:07:34) pick grid 6.412 44.433
+\t (00:07:34) last pick:  6.350 44.450
+\i (00:07:35) pick grid 7.167 45.119
+\t (00:07:35) last pick:  7.112 45.085
+\i (00:07:38) drag_start grid 4.422 44.707
+\i (00:07:38) move 
+\t (00:07:38) last pick:  5.080 43.942
+\t (00:07:38) Pick new location for the element(s).
+\i (00:07:39) drag_stop grid 5.039 44.845
+\i (00:07:39) generaledit 
+\i (00:07:42) pick grid 82.314 16.501
+\t (00:07:42) last pick:  82.296 16.510
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 14.716 30.227
+\i (00:08:16) trapsize 172
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 14.716 30.227
+\i (00:08:16) trapsize 86
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 14.081 30.330
+\i (00:08:16) trapsize 43
+\i (00:08:20) zoom in 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in 15.196 28.726
+\i (00:08:20) trapsize 21
+\i (00:08:20) zoom in 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in 15.192 28.726
+\i (00:08:20) trapsize 11
+\i (00:08:20) zoom out 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom out 15.192 28.726
+\i (00:08:20) trapsize 21
+\i (00:08:20) zoom out 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom out 15.192 28.726
+\i (00:08:20) trapsize 43
+\i (00:08:20) zoom out 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom out 15.183 28.735
+\i (00:08:20) trapsize 86
+\i (00:08:20) zoom out 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom out 15.114 28.787
+\i (00:08:20) trapsize 172
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out 19.608 29.713
+\i (00:08:21) trapsize 343
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out 19.609 29.713
+\i (00:08:21) trapsize 686
+\i (00:08:22) zoom in 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom in 13.549 29.987
+\i (00:08:22) trapsize 343
+\i (00:08:22) zoom in 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom in 13.550 29.987
+\i (00:08:22) trapsize 172
+\i (00:10:55) shape add 
+\i (00:11:27) setwindow form.mini
+\i (00:11:27) FORM mini dyns_netname_list  
+\i (00:11:28) fillin "Vcc"
+\t (00:11:28) Assigning selected shape to net: VCC
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 4.491 29.576
+\i (00:11:36) trapsize 343
+\i (00:11:43) zoom out 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom out 1.815 30.811
+\i (00:11:43) trapsize 686
+\i (00:11:46) pick grid -6.694 29.026
+\t (00:11:46) last pick:  -6.731 29.083
+\i (00:11:47) pick grid 2.365 36.438
+\t (00:11:47) last pick:  2.413 36.449
+\i (00:11:48) pick grid 21.718 30.810
+\t (00:11:48) last pick:  21.717 30.861
+\i (00:11:50) pick grid 17.326 2.536
+\t (00:11:50) last pick:  17.272 2.540
+\i (00:11:51) pick grid 6.071 -5.150
+\t (00:11:51) last pick:  6.096 -5.207
+\i (00:11:53) pick grid -6.694 3.908
+\t (00:11:53) last pick:  -6.731 3.937
+\i (00:11:55) pick grid -6.694 29.438
+\t (00:11:55) last pick:  -6.731 29.464
+\e (00:11:55) ERROR(SPMHA1-387): Segment crosses the shape ... pick again.
+\i (00:11:58) prepopup -6.557 25.595
+\i (00:12:02) done 
+\i (00:12:02) generaledit 
+\i (00:12:27) shape select 
+\i (00:12:30) pick grid 15.267 22.163
+\t (00:12:30) last pick:  15.240 22.225
+\i (00:12:31) prepopup 15.267 22.163
+\i (00:12:56) prepopup 10.600 17.771
+\i (00:16:56) pick grid -8.204 14.477
+\t (00:16:56) last pick:  -8.255 14.478
+\w (00:16:56) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:16:57) pick grid -6.557 15.163
+\t (00:16:57) last pick:  -6.604 15.113
+\w (00:16:57) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:16:57) prepopup -6.694 15.301
+\i (00:17:01) prepopup 77.581 28.065
+\i (00:17:01) done 
+\i (00:17:01) generaledit 
+\i (00:19:17) pick grid 108.601 34.379
+\t (00:19:17) last pick:  108.585 34.417
+\i (00:19:18) pick grid 4.012 44.124
+\t (00:19:18) last pick:  4.064 44.069
+\i (00:19:21) drag_start grid ext tgl 5.247 43.713
+\i (00:19:22) drag_stop ext tgl 6.071 40.967
+\i (00:19:25) prepopup 37.091 42.889
+\i (00:19:28) prepopup 65.914 33.967
+\i (00:19:31) undo 
+\i (00:19:31) trapsize 686
+\i (00:19:31) generaledit 
+\i (00:19:31) pick grid 23.228 63.889
+\t (00:19:31) last pick:  23.241 63.881
+\i (00:19:32) pick grid 5.796 44.948
+\t (00:19:32) last pick:  5.842 44.958
+\i (00:19:47) done 
+\i (00:19:47) place manual 
+\t (00:19:47) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:19:47) No valid items selected for the current operation, exiting.
+\i (00:19:47) FORM plc_manual placement_list 
+\e (00:19:47) Form not found
+\i (00:19:47) FORM plc_manual categories Components by refdes 
+\e (00:19:47) Form not found
+\i (00:19:47) trapsize 686
+\i (00:19:47) generaledit 
+\i (00:19:52) pick grid 44.777 66.771
+\t (00:19:52) last pick:  44.831 66.802
+\i (00:19:54) done 
+\i (00:19:54) place manual 
+\i (00:19:54) FORM plc_manual placement_list 
+\i (00:19:54) FORM plc_manual categories Components by refdes 
+\i (00:19:54) trapsize 686
+\i (00:19:55) setwindow form.plc_manual
+\i (00:19:55) FORM plc_manual tree  'Components by refdes' 
+\i (00:20:03) FORM plc_manual categories Package symbols 
+\i (00:20:04) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:20:04) FORM plc_manual tree  JUMPER2 'Package symbols' 
+\i (00:20:05) FORM plc_manual tree  RES400 'Package symbols' 
+\i (00:20:06) FORM plc_manual tree  SMDRES 'Package symbols' 
+\i (00:20:09) FORM plc_manual categories Components by net group 
+\i (00:20:11) FORM plc_manual categories Mechanical symbols 
+\i (00:20:12) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:20:19) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:20:21) setwindow pcb
+\i (00:20:21) pick grid 64.953 5.967
+\t (00:20:21) last pick:  64.770 5.715
+\i (00:20:23) pick grid 64.542 45.497
+\t (00:20:23) last pick:  64.770 45.720
+\i (00:20:24) pick grid 63.718 45.771
+\t (00:20:24) last pick:  63.500 45.720
+\i (00:20:25) setwindow form.plc_manual
+\i (00:20:25) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:20:26) setwindow pcb
+\i (00:20:26) pick grid 64.542 45.222
+\t (00:20:26) last pick:  64.770 45.085
+\i (00:20:27) setwindow form.plc_manual
+\i (00:20:27) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:20:29) setwindow pcb
+\i (00:20:29) pick grid 5.385 4.869
+\t (00:20:29) last pick:  5.080 5.080
+\i (00:20:30) setwindow form.plc_manual
+\i (00:20:30) FORM plc_manual done  
+\i (00:20:30) setwindow pcb
+\i (00:20:30) generaledit 
+\i (00:20:31) prepopup 92.542 23.399
+\i (00:20:32) prepopup 80.052 24.908
+\i (00:21:32) done 
+\i (00:21:32) place manual 
+\i (00:21:32) FORM plc_manual placement_list 
+\i (00:21:32) FORM plc_manual categories Components by refdes 
+\i (00:21:32) setwindow form.plc_manual
+\i (00:21:32) FORM plc_manual categories Components by refdes 
+\i (00:21:32) setwindow pcb
+\i (00:21:32) trapsize 686
+\i (00:21:34) setwindow form.plc_manual
+\i (00:21:34) FORM plc_manual categories Mechanical symbols 
+\i (00:21:35) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:22:13) FORM plc_manual cancel  
+\i (00:22:13) setwindow pcb
+\i (00:22:13) generaledit 
+\i (00:22:52) done 
+\i (00:22:52) place manual 
+\i (00:22:52) FORM plc_manual placement_list 
+\i (00:22:52) FORM plc_manual categories Components by refdes 
+\i (00:22:52) setwindow form.plc_manual
+\i (00:22:52) FORM plc_manual categories Components by refdes 
+\i (00:22:52) setwindow pcb
+\i (00:22:52) trapsize 686
+\i (00:22:55) setwindow form.plc_manual
+\i (00:22:55) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:22:55) FORM plc_manual tree  'Components by refdes' 
+\i (00:23:02) setwindow form.mini
+\i (00:23:02) FORM mini class ROUTE KEEPOUT 
+\i (00:23:10) setwindow form.plc_manual
+\i (00:23:10) FORM plc_manual categories Mechanical symbols 
+\i (00:23:11) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:23:11) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:23:15) FORM plc_manual tree 'MULTISEL NO' MTG125 'Mechanical symbols' 
+\i (00:23:16) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:23:24) FORM plc_manual tree 'MULTISEL NO' MTG125 'Mechanical symbols' 
+\i (00:23:26) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:23:50) setwindow form.mini
+\i (00:23:50) FORM mini subcolor 1 
+\i (00:23:53) setwindow form.plc_manual
+\i (00:23:53) FORM plc_manual tree 'MULTISEL NO' MTG125 'Mechanical symbols' 
+\i (00:23:54) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:26:42) FORM plc_manual done  
+\i (00:26:42) setwindow pcb
+\i (00:26:42) generaledit 
+\i (00:26:43) pick grid 80.463 5.418
+\t (00:26:43) last pick:  80.645 5.715
+\i (00:27:02) shape select 
+\i (00:27:05) shape select 
+\i (00:27:09) prepopup 49.855 77.615
+\i (00:27:10) cancel 
+\i (00:27:10) generaledit 
+\i (00:28:42) ncdrill legend 
+   (00:28:42) Loading mfg.cxt 
+\i (00:28:49) setwindow form.nc_drilllegend
+\i (00:28:49) FORM nc_drilllegend done  
+\i (00:29:19) setwindow pcb
+\i (00:29:19) grid toggle 
+\i (00:29:20) zoom out 1 
+\i (00:29:20) setwindow pcb
+\i (00:29:20) zoom out 100.091 59.497
+\t (00:29:20) Grids are drawn 1.270, 1.270 apart for enhanced viewability.
+\i (00:29:20) trapsize 1373
+\i (00:29:25) pick grid 75.451 40.588
+\t (00:29:25) last pick:  75.565 40.640
+\t (00:29:25) NC Drill Legend generation successful
+\i (00:29:26) generaledit 
+\i (00:29:30) grid toggle 
+\i (00:29:30) generaledit 
+\i (00:36:35) artwork 
+\i (00:36:41) setwindow form.film_control
+\i (00:36:41) FORM film_control filmtree popup Add BOTTOM 
+\i (00:37:14) fillin "0_Design"
+\i (00:37:31) FORM film_control filmtree popup Cut 0_Design 
+\i (00:37:33) FORM film_control filmtree popup Add BOTTOM 
+\i (00:37:56) fillin "Design"
+\i (00:39:08) FORM film_control ok  
+\i (00:39:08) setwindow pcb
+\i (00:39:08) generaledit 
+\i (00:39:28) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:39:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:39:49) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:39:53) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
+\i (00:40:57) color192 
+\i (00:40:57) generaledit 
+\i (00:41:11) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:41:13) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:41:40) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:41:46) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:42:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 15 0
+\i (00:42:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:42:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:29) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:42:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 15 0
+\i (00:42:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:42:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:43:01) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:43:06) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 2
+\i (00:43:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:43:06) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:43:43) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:43:51) artwork 
+\i (00:43:57) setwindow form.film_control
+\i (00:43:57) FORM film_control filmtree popup Add BOTTOM 
+\i (00:44:57) fillin "SilkT"
+\i (00:45:12) FORM film_control ok  
+\i (00:45:12) setwindow pcb
+\i (00:45:12) generaledit 
+\i (00:45:29) artwork 
+\i (00:45:38) setwindow form.film_control
+\i (00:45:38) FORM film_control filmtree 'MULTISEL YES' SilkT 
+\i (00:45:38) FORM film_control filmtree  SilkT 
+\i (00:45:39) FORM film_control filmtree 'MULTISEL NO' SilkT 
+\i (00:45:41) FORM film_control ok  
+\i (00:45:41) setwindow pcb
+\i (00:45:41) generaledit 
+\i (00:58:19) color192 
+\i (00:58:19) generaledit 
+\i (00:58:21) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:58:28) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:58:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:58:34) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 14 0
+\i (00:58:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:58:34) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:58:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:58:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:58:38) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:58:40) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 2
+\i (00:58:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 2
+\i (00:58:40) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:58:59) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:59:00) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:59:03) zoom in 1 
+\i (00:59:03) setwindow pcb
+\i (00:59:03) zoom in -14.863 7.098
+\i (00:59:03) trapsize 686
+\i (01:00:30) artwork 
+\i (01:00:33) setwindow form.film_control
+\i (01:00:33) FORM film_control filmtree popup Add SilkT 
+\i (01:00:40) fillin "SilKB"
+\i (01:01:32) FORM film_control ok  
+\i (01:01:32) setwindow pcb
+\i (01:01:32) generaledit 
+\i (01:01:50) setwindow form.mini
+\i (01:01:50) FORM mini class BOARD GEOMETRY 
+\i (01:01:53) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (01:02:04) setwindow pcb
+\i (01:02:04) pick grid 54.314 12.588
+\t (01:02:04) last pick:  54.610 12.700
+\i (01:02:06) drag_start grid 74.902 16.569
+\i (01:02:07) drag_stop 83.138 10.529
+\i (01:02:29) add text 
+\t (01:02:29) Pick text location.
+\i (01:02:33) pick grid 52.942 14.098
+\t (01:02:33) last pick:  52.705 13.970
+\t (01:02:33) Enter text string.
+\i (01:02:38) setwindow pcb
+\i (01:02:38) pick 52.705 13.970
+\t (01:02:38) Enter text string.
+\i (01:02:39) prepopup 79.569 26.451
+\i (01:02:40) done 
+\i (01:02:40) generaledit 
+\i (01:02:48) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (01:02:49) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (01:02:50) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (01:02:51) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (01:02:57) pick grid 54.040 14.510
+\t (01:02:57) last pick:  53.975 14.605
+\i (01:02:57) pick grid 54.726 13.823
+\t (01:02:57) last pick:  54.610 13.970
+\i (01:02:58) drag_start grid 56.785 13.000
+\i (01:02:59) drag_stop 50.471 15.745
+\i (01:03:00) pick grid 55.275 14.235
+\t (01:03:00) last pick:  55.245 13.970
+\i (01:03:07) zoom in 1 
+\i (01:03:07) setwindow pcb
+\i (01:03:07) zoom in 51.981 9.980
+\i (01:03:07) trapsize 343
+\i (01:03:08) zoom in 1 
+\i (01:03:08) setwindow pcb
+\i (01:03:08) zoom in 53.628 11.559
+\i (01:03:08) trapsize 172
+\i (01:03:08) pick grid 55.825 14.304
+\t (01:03:08) last pick:  55.880 14.605
+\i (01:03:09) pick grid 55.379 14.064
+\t (01:03:09) last pick:  55.245 13.970
+\i (01:03:09) pick grid dbl 55.379 14.064
+\t (01:03:09) last pick:  55.245 13.970
+\i (01:03:14) prepopup 55.070 14.030
+\i (01:03:17) pick grid dbl 55.070 14.030
+\t (01:03:17) last pick:  55.245 13.970
+\i (01:03:30) prepopup 53.869 14.647
+\i (01:03:31) pick grid 52.565 13.995
+\t (01:03:31) last pick:  52.705 13.970
+\i (01:03:32) prepopup 53.354 14.201
+\i (01:03:33) pop dyn_option_select @:@Mirror 
+\i (01:03:33) mirror 
+\i (01:03:33) generaledit 
+\i (01:03:39) undo 
+\i (01:03:39) trapsize 172
+\i (01:03:39) generaledit 
+\i (01:03:50) add text 
+\t (01:03:50) Pick text location.
+\i (01:04:01) prepopup 53.766 11.834
+\i (01:04:05) pick grid 53.697 12.486
+\t (01:04:05) last pick:  53.975 12.700
+\t (01:04:05) Enter text string.
+\i (01:04:05) setwindow pcb
+\i (01:04:05) prepopup 54.109 12.726
+\i (01:04:18) setwindow form.mini
+\i (01:04:18) FORM mini mirror YES 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) prepopup 52.290 12.726
+\i (01:04:34) done 
+\i (01:04:34) setwindow pcb
+\i (01:04:34) pick 53.975 12.700
+\i (01:04:34) setwindow pcb
+\i (01:04:34) generaledit 
+\i (01:04:48) zoom in 1 
+\i (01:04:48) setwindow pcb
+\i (01:04:48) zoom in 56.408 17.598
+\i (01:04:48) trapsize 86
+\i (01:04:48) zoom in 1 
+\i (01:04:48) setwindow pcb
+\i (01:04:48) zoom in 56.408 17.598
+\i (01:04:48) trapsize 43
+\i (01:04:49) zoom out 1 
+\i (01:04:49) setwindow pcb
+\i (01:04:49) zoom out 56.408 17.598
+\i (01:04:49) trapsize 86
+\i (01:04:49) zoom out 1 
+\i (01:04:49) setwindow pcb
+\i (01:04:49) zoom out 56.408 17.599
+\i (01:04:49) trapsize 172
+\i (01:04:49) zoom out 1 
+\i (01:04:49) setwindow pcb
+\i (01:04:49) zoom out 56.477 17.634
+\i (01:04:49) trapsize 343
+\i (01:04:50) zoom in 1 
+\i (01:04:50) setwindow pcb
+\i (01:04:50) zoom in 45.015 21.820
+\i (01:04:50) trapsize 172
+\i (01:04:50) zoom out 1 
+\i (01:04:50) setwindow pcb
+\i (01:04:50) zoom out 45.152 21.751
+\i (01:04:50) trapsize 343
+\i (01:04:54) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilKB"
+\i (01:05:00) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkT"
+\i (01:05:01) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilKB"
+\i (01:05:03) drag_start grid 81.320 23.742
+\i (01:05:03) drag_stop 81.388 14.889
+\i (01:05:04) prepopup 75.075 23.742
+\i (01:05:07) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (01:05:14) artwork 
+\i (01:05:27) setwindow form.film_control
+\i (01:05:27) FORM film_control ok  
+\i (01:05:27) setwindow pcb
+\i (01:05:27) generaledit 
+\i (01:05:30) zoom in 1 
+\i (01:05:30) setwindow pcb
+\i (01:05:30) zoom in 53.594 13.447
+\i (01:05:30) trapsize 172
+\i (01:05:31) pick grid 54.315 13.996
+\t (01:05:31) last pick:  54.610 13.970
+\i (01:05:31) pick grid 52.873 12.727
+\t (01:05:31) last pick:  52.705 12.700
+\i (01:06:05) color192 
+\i (01:06:05) generaledit 
+\i (01:06:07) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:06:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (01:06:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (01:06:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 17 0
+\i (01:06:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (01:06:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:06:27) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (01:06:29) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 17 0
+\i (01:06:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (01:06:30) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:06:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (01:06:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Embedded geometry"
+\i (01:06:32) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (01:06:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (01:06:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (01:06:36) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (01:06:38) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (01:06:39) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (01:06:51) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (01:08:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (01:08:44) QtSignal CVDLayerTable VertHeader clickedButton 2
+\i (01:08:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:08:46) QtSignal CVDLayerTable VertHeader clickedButton 2
+\i (01:08:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:08:47) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (01:08:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:08:48) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (01:08:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:08:51) QtSignal CVDLayerTable VertHeader clickedButton 2
+\i (01:08:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:08:57) QtSignal CVDColorTable CVDColorButton5:1 clicked
+\i (01:08:58) QtSignal CVDLayerTable VertHeader clickedButton 2
+\i (01:08:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:09:02) QtSignal CVDColorTable CVDColorButton2:7 clicked
+\i (01:09:04) QtSignal CVDLayerTable VertHeader clickedButton 2
+\i (01:09:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:09:06) QtSignal CVDColorTable CVDColorButton1:7 clicked
+\i (01:09:07) QtSignal CVDLayerTable VertHeader clickedButton 2
+\i (01:09:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:09:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:09:10) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 2 1
+\i (01:09:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 1
+\i (01:09:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:09:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 2 0
+\i (01:09:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (01:09:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:09:45) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:09:46) zoom out 1 
+\i (01:09:46) setwindow pcb
+\i (01:09:46) zoom out 52.736 11.148
+\i (01:09:46) trapsize 343
+\i (01:10:03) artwork 
+\i (01:10:12) setwindow form.film_control
+\i (01:10:12) FORM film_control filmtree popup Add BOTTOM 
+\i (01:10:19) fillin "solderT"
+\i (01:10:26) FORM film_control ok  
+\i (01:10:26) setwindow pcb
+\i (01:10:26) generaledit 
+\i (01:11:36) color192 
+\i (01:11:36) generaledit 
+\i (01:11:39) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:11:41) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 3 0
+\i (01:11:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (01:11:41) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:11:42) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 3 1
+\i (01:11:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 1
+\i (01:11:42) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:11:44) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:11:53) QtSignal CVDLayerTable VertHeader clickedCheckBox 29
+\i (01:11:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 29 0
+\i (01:12:01) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (01:12:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (01:12:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Embedded geometry"
+\i (01:12:08) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:12:12) artwork 
+\i (01:12:18) setwindow form.film_control
+\i (01:12:18) FORM film_control filmtree popup Add BOTTOM 
+\i (01:12:21) fillin "solderB"
+\i (01:12:23) FORM film_control ok  
+\i (01:12:23) setwindow pcb
+\i (01:12:23) generaledit 
+\i (01:12:28) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderB"
+\i (01:12:30) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (01:12:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderT"
+\i (01:12:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderB"
+\i (01:12:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderT"
+\i (01:12:38) zoom out 1 
+\i (01:12:38) setwindow pcb
+\i (01:12:38) zoom out 57.403 27.688
+\i (01:12:38) trapsize 686
+\i (01:12:38) zoom out 1 
+\i (01:12:38) setwindow pcb
+\i (01:12:38) zoom out 57.403 27.687
+\i (01:12:39) trapsize 1373
+\i (01:12:40) zoom in 1 
+\i (01:12:40) setwindow pcb
+\i (01:12:40) zoom in 47.725 61.451
+\i (01:12:40) trapsize 686
+\i (01:12:42) drag_start grid 72.843 51.706
+\i (01:12:42) drag_stop 71.883 53.353
+\i (01:12:43) zoom in 1 
+\i (01:12:43) setwindow pcb
+\i (01:12:43) zoom in 5.177 8.059
+\i (01:12:43) trapsize 343
+\i (01:12:44) zoom out 1 
+\i (01:12:44) setwindow pcb
+\i (01:12:44) zoom out 8.196 12.246
+\i (01:12:44) trapsize 686
+\i (01:12:44) zoom out 1 
+\i (01:12:44) setwindow pcb
+\i (01:12:44) zoom out 7.511 12.383
+\i (01:12:44) trapsize 1373
+\i (01:12:45) zoom in 1 
+\i (01:12:45) setwindow pcb
+\i (01:12:45) zoom in -37.647 -31.608
+\i (01:12:45) trapsize 686
+\i (01:12:46) zoom in 1 
+\i (01:12:46) setwindow pcb
+\i (01:12:46) zoom in 43.471 37.843
+\i (01:12:46) trapsize 343
+\i (01:12:49) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderB"
+\i (01:12:51) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderT"
+\i (01:12:56) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderB"
+\i (01:12:58) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: solderT"
+\i (01:14:57) color192 
+\i (01:14:57) generaledit 
+\i (01:15:00) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:15:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (01:15:58) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (01:15:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (01:16:00) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 3
+\i (01:16:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 3
+\i (01:16:00) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (01:16:14) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:16:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:16:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:16:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (01:16:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (01:16:58) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (01:16:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (01:16:59) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:17:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:17:35) QtSignal CVDLayerTable VertHeader clickedCheckBox 20
+\i (01:17:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 20 0
+\i (01:18:52) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:18:55) artwork 
+\i (01:18:59) setwindow form.film_control
+\i (01:18:59) FORM film_control cancel  
+\i (01:18:59) setwindow pcb
+\i (01:18:59) generaledit 
+\i (01:19:00) zoom out 1 
+\i (01:19:00) setwindow pcb
+\i (01:19:00) zoom out 27.344 24.050
+\i (01:19:00) trapsize 686
+\i (01:19:00) zoom out 1 
+\i (01:19:00) setwindow pcb
+\i (01:19:00) zoom out 27.618 25.284
+\i (01:19:00) trapsize 1373
+\i (01:19:00) zoom out 1 
+\i (01:19:00) setwindow pcb
+\i (01:19:00) zoom out 60.078 56.510
+\i (01:19:00) trapsize 1373
+\i (01:19:01) zoom out 1 
+\i (01:19:01) setwindow pcb
+\i (01:19:01) zoom out 58.157 59.255
+\i (01:19:01) trapsize 1373
+\i (01:19:01) zoom in 1 
+\i (01:19:01) setwindow pcb
+\i (01:19:01) zoom in 57.608 60.078
+\i (01:19:01) trapsize 686
+\i (01:19:02) zoom in 1 
+\i (01:19:02) setwindow pcb
+\i (01:19:02) zoom in 57.608 60.078
+\i (01:19:02) trapsize 343
+\i (01:19:05) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (01:19:06) zoom out 1 
+\i (01:19:06) setwindow pcb
+\i (01:19:06) zoom out 47.314 45.118
+\i (01:19:06) trapsize 686
+\i (01:19:06) zoom out 1 
+\i (01:19:06) setwindow pcb
+\i (01:19:06) zoom out 47.314 47.039
+\i (01:19:06) trapsize 1373
+\i (01:19:07) zoom in 1 
+\i (01:19:07) setwindow pcb
+\i (01:19:07) zoom in -12.392 -2.235
+\i (01:19:07) trapsize 686
+\i (01:19:09) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (01:19:16) color192 
+\i (01:19:16) generaledit 
+\i (01:19:33) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (01:19:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:20:19) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:20:21) artwork 
+\i (01:20:24) setwindow form.film_control
+\i (01:20:24) FORM film_control filmtree popup Add BOTTOM 
+\i (01:20:33) fillin "MetalT"
+\i (01:20:47) FORM film_control ok  
+\i (01:20:47) setwindow pcb
+\i (01:20:47) generaledit 
+\i (01:20:50) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: MetalT"
+\i (01:20:52) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (01:20:55) color192 
+\i (01:20:56) generaledit 
+\i (01:20:58) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:21:01) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 0
+\i (01:21:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (01:21:01) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:21:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:21:09) QtSignal CVDLayerTable VertHeader clickedCheckBox 19
+\i (01:21:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 19 0
+\i (01:21:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (01:21:13) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:21:17) artwork 
+\i (01:21:20) setwindow form.film_control
+\i (01:21:20) FORM film_control filmtree popup Add BOTTOM 
+\i (01:21:25) fillin "MetalB"
+\i (01:21:27) FORM film_control ok  
+\i (01:21:27) setwindow pcb
+\i (01:21:27) generaledit 
+\i (01:22:09) zoom out 1 
+\i (01:22:09) setwindow pcb
+\i (01:22:09) zoom out 76.412 23.707
+\i (01:22:09) trapsize 1373
+\i (01:22:09) zoom out 1 
+\i (01:22:09) setwindow pcb
+\i (01:22:09) zoom out 163.843 49.647
+\i (01:22:09) trapsize 1373
+\i (01:22:09) zoom out 1 
+\i (01:22:09) setwindow pcb
+\i (01:22:09) zoom out 157.255 49.647
+\i (01:22:09) trapsize 1373
+\i (01:22:11) zoom in 1 
+\i (01:22:11) setwindow pcb
+\i (01:22:11) zoom in 100.980 40.588
+\i (01:22:11) trapsize 686
+\i (01:22:12) zoom in 1 
+\i (01:22:12) setwindow pcb
+\i (01:22:12) zoom in 100.980 40.588
+\i (01:22:12) trapsize 343
+\i (01:22:12) zoom in 1 
+\i (01:22:12) setwindow pcb
+\i (01:22:12) zoom in 100.980 40.588
+\i (01:22:12) trapsize 172
+\i (01:22:13) zoom out 1 
+\i (01:22:13) setwindow pcb
+\i (01:22:13) zoom out 100.981 40.589
+\i (01:22:13) trapsize 343
+\i (01:22:13) zoom out 1 
+\i (01:22:13) setwindow pcb
+\i (01:22:13) zoom out 100.569 40.588
+\i (01:22:13) trapsize 686
+\i (01:22:14) zoom in 1 
+\i (01:22:14) setwindow pcb
+\i (01:22:14) zoom in 36.195 32.902
+\i (01:22:14) trapsize 343
+\i (01:22:15) zoom out 1 
+\i (01:22:15) setwindow pcb
+\i (01:22:15) zoom out 35.577 32.902
+\i (01:22:15) trapsize 686
+\i (01:22:15) zoom out 1 
+\i (01:22:15) setwindow pcb
+\i (01:22:15) zoom out 36.401 32.216
+\i (01:22:15) trapsize 1373
+\i (01:22:16) zoom in 1 
+\i (01:22:16) setwindow pcb
+\i (01:22:16) zoom in -45.608 16.157
+\i (01:22:16) trapsize 686
+\i (01:22:18) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (01:22:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: MetalB"
+\i (01:22:30) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: MetalT"
+\i (01:22:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (01:22:35) color192 
+\i (01:22:35) generaledit 
+\i (01:22:45) artwork 
+\i (01:22:47) setwindow form.film_control
+\i (01:22:47) FORM film_control filmtree  SilKB 
+\i (01:22:52) FORM film_control filmtree  MetalT 
+\i (01:22:52) FORM film_control filmtree  MetalB 
+\i (01:22:57) FORM film_control ok  
+\i (01:22:57) setwindow pcb
+\i (01:22:57) generaledit 
+\i (01:23:03) color192 
+\i (01:23:03) generaledit 
+\i (01:23:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (01:23:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:23:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:23:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:23:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:23:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:23:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:23:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:23:13) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:23:17) artwork 
+\i (01:23:19) setwindow form.film_control
+\i (01:23:19) FORM film_control filmtree  MetalT 
+\i (01:23:19) FORM film_control filmtree  MetalB 
+\i (01:23:26) FORM film_control cancel  
+\i (01:23:26) setwindow pcb
+\i (01:23:26) generaledit 
+\i (01:23:29) color192 
+\i (01:23:29) generaledit 
+\i (01:24:44) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:24:44) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:24:44) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (01:24:46) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (01:25:03) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (01:25:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (01:25:03) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:25:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:25:47) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:25:48) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:25:48) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:25:49) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
+\i (01:25:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (01:26:07) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:26:10) zoom out 1 
+\i (01:26:10) setwindow pcb
+\i (01:26:10) zoom out 77.510 37.432
+\i (01:26:10) trapsize 1373
+\i (01:26:10) zoom out 1 
+\i (01:26:10) setwindow pcb
+\i (01:26:10) zoom out 200.353 58.706
+\i (01:26:10) trapsize 1373
+\i (01:26:11) zoom in 1 
+\i (01:26:11) setwindow pcb
+\i (01:26:11) zoom in -17.608 52.941
+\i (01:26:11) trapsize 686
+\i (01:26:17) color192 
+\i (01:26:17) generaledit 
+\i (01:26:20) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:26:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:26) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:29) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:29) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:29) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:30) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (01:26:32) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (01:26:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (01:26:57) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (01:26:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (01:26:58) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (01:27:00) artwork 
+\i (01:27:12) setwindow form.film_control
+\i (01:27:12) FORM film_control filmtree popup Add BOTTOM 
+\i (01:27:14) fillin "menu_cancel"
+\i (01:27:16) FORM film_control filmtree popup Add BOTTOM 
+\i (01:27:21) fillin "DrillDraw"
+\i (01:27:32) FORM film_control ok  
+\i (01:27:32) setwindow pcb
+\i (01:27:32) generaledit 
+\i (01:32:33) artwork 
+\i (01:32:37) setwindow form.film_control
+\i (01:32:37) FORM film_control select_all  
+\i (01:32:40) FORM film_control filmtree  Design 
+\i (01:32:41) FORM film_control filmtree 'MULTISEL NO' Design 
+\i (01:32:49) FORM film_control create  
+\i (01:33:17) fillin yes 
+\t (01:33:17) Checking db records
+\t (01:33:17)     checking for orphans...
+\t (01:33:17)     Checked 100 percent
+\w (01:33:17) Run batch DRC to correctly regenerate DRC errs.
+
+\t (01:33:17) Done dbdoctor.
+\t (01:33:17) Starting Create artwork films...
+\w (01:33:18) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:33:19) Artwork generated with warnings.
+\i (01:34:12) setwindow pcb
+\i (01:34:12) setwindow text
+\i (01:34:12) close
+\i (01:34:14) setwindow form.film_control
+\i (01:34:14) FORM film_control cancel  
+\i (01:34:14) setwindow pcb
+\i (01:34:14) generaledit 
+\i (01:34:20) shape global param 
+\i (01:34:21) generaledit 
+\i (01:34:24) setwindow form.dyn_xshape
+\i (01:34:24) FORM dyn_xshape void_controls  
+\i (01:34:39) FORM dyn_xshape cancel  
+\i (02:13:30) setwindow pcb
+\i (02:13:30) pick grid -9.235 70.236
+\t (02:13:30) last pick:  -9.525 70.485
+\i (02:13:30) zoom out 1 
+\i (02:13:30) setwindow pcb
+\i (02:13:30) zoom out 16.843 69.412
+\i (02:13:30) trapsize 1373
+\i (02:13:30) zoom out 1 
+\i (02:13:30) setwindow pcb
+\i (02:13:30) zoom out 51.294 85.882
+\i (02:13:30) trapsize 1373
+\i (02:13:30) zoom out 1 
+\i (02:13:30) setwindow pcb
+\i (02:13:30) zoom out 51.294 85.882
+\i (02:13:30) trapsize 1373
+\i (02:13:30) zoom out 1 
+\i (02:13:30) setwindow pcb
+\i (02:13:30) zoom out 51.294 85.882
+\i (02:13:30) trapsize 1373
+\i (02:13:30) zoom out 1 
+\i (02:13:30) setwindow pcb
+\i (02:13:30) zoom out 51.569 85.882
+\i (02:13:30) trapsize 1373
+\i (02:13:31) zoom in 1 
+\i (02:13:31) setwindow pcb
+\i (02:13:31) zoom in -1.686 0.510
+\i (02:13:31) trapsize 686
+\i (02:13:36) artwork 
+\i (02:15:01) setwindow form.film_control
+\i (02:15:01) FORM film_control filmtree  DrillDraw 
+\i (02:15:28) FORM film_control undefined_line_width 0.1 
+\i (02:15:31) FORM film_control filmtree  SilKB 
+\i (02:15:42) FORM film_control undefined_line_width 0.2 
+\i (02:15:42) FORM film_control filmtree  SilkT 
+\i (02:16:10) FORM film_control undefined_line_width 0.2 
+\i (02:16:10) FORM film_control filmtree  DrillDraw 
+\i (02:16:27) FORM film_control filmtree popup Cut 'VIA CLASS/BOTTOM' SilKB 
+\i (02:16:29) FORM film_control filmtree popup Cut 'VIA CLASS/TOP' SilKB 
+\i (02:16:31) FORM film_control filmtree popup Cut PIN/TOP SilKB 
+\i (02:16:44) FORM film_control cancel  
+\i (02:16:44) setwindow pcb
+\i (02:16:44) generaledit 
+\i (02:16:46) artwork 
+\i (02:16:48) setwindow form.film_control
+\i (02:16:48) FORM film_control filmtree  DrillDraw 
+\i (02:16:51) FORM film_control undefined_line_width 0.1 
+\i (02:16:51) FORM film_control filmtree  SilkT 
+\i (02:16:54) FORM film_control undefined_line_width 0.2 
+\i (02:16:54) FORM film_control filmtree  SilKB 
+\i (02:16:57) FORM film_control undefined_line_width 0.2 
+\i (02:17:34) FORM film_control filmtree popup Cut SilKB 
+\i (02:17:36) FORM film_control ok  
+\i (02:17:36) setwindow pcb
+\i (02:17:36) generaledit 
+\i (02:17:40) color192 
+\i (02:17:40) generaledit 
+\i (02:17:41) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (02:17:44) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (02:17:44) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (02:17:49) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (02:17:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (02:17:56) QtSignal CVDLayerTable VertHeader clickedCheckBox 27
+\i (02:17:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 27 0
+\i (02:18:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (02:18:09) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (02:18:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (02:18:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (02:18:15) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (02:18:17) artwork 
+\i (02:18:19) setwindow form.film_control
+\i (02:18:19) FORM film_control filmtree popup Add BOTTOM 
+\i (02:18:22) fillin "SilkB"
+\i (02:18:31) FORM film_control ok  
+\i (02:18:31) setwindow pcb
+\i (02:18:31) generaledit 
+\i (02:18:41) artwork 
+\i (02:18:44) setwindow form.film_control
+\i (02:18:44) FORM film_control select_all  
+\i (02:18:45) FORM film_control filmtree 'MULTISEL NO' Design 
+\i (02:18:45) FORM film_control filmtree  Design 
+\i (02:18:46) FORM film_control create  
+\i (02:18:46) fillin yes 
+\t (02:18:46) Checking db records
+\t (02:18:46)     checking for orphans...
+\t (02:18:46)     Checked 100 percent
+\w (02:18:46) Run batch DRC to correctly regenerate DRC errs.
+
+\t (02:18:46) Done dbdoctor.
+\t (02:18:46) Starting Create artwork films...
+\w (02:18:47) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (02:18:48) Artwork generated with warnings.
+\i (02:19:30) setwindow pcb
+\i (02:19:30) setwindow text
+\i (02:19:30) close
+\i (02:19:32) setwindow form.film_control
+\i (02:19:32) FORM film_control ok  
+\i (02:19:32) setwindow pcb
+\i (02:19:32) generaledit 
+\i (02:27:20) drag_start grid 15.882 32.216
+\i (02:27:21) drag_stop 142.706 17.667
+\i (02:27:21) drag_start grid 42.922 34.137
+\i (02:27:21) drag_stop 83.549 -20.353
+\i (02:27:22) drag_start grid 39.902 17.118
+\i (02:27:22) drag_stop 114.020 -10.059
+\i (02:27:23) zoom out 1 
+\i (02:27:23) setwindow pcb
+\i (02:27:23) zoom out 60.765 19.039
+\i (02:27:23) trapsize 1373
+\i (02:27:23) zoom out 1 
+\i (02:27:23) setwindow pcb
+\i (02:27:23) zoom out 79.020 35.098
+\i (02:27:23) trapsize 1373
+\i (02:27:24) zoom in 1 
+\i (02:27:24) setwindow pcb
+\i (02:27:24) zoom in 56.784 32.902
+\i (02:27:24) trapsize 686
+\i (02:27:25) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (02:27:27) zoom in 1 
+\i (02:27:27) setwindow pcb
+\i (02:27:27) zoom in 105.647 43.882
+\i (02:27:27) trapsize 343
+\i (02:27:27) zoom out 1 
+\i (02:27:27) setwindow pcb
+\i (02:27:27) zoom out 56.853 22.814
+\i (02:27:27) trapsize 686
+\i (02:27:27) zoom out 1 
+\i (02:27:27) setwindow pcb
+\i (02:27:27) zoom out 46.881 23.363
+\i (02:27:27) trapsize 1373
+\i (02:27:27) zoom out 1 
+\i (02:27:27) setwindow pcb
+\i (02:27:27) zoom out -42.039 -26.941
+\i (02:27:27) trapsize 1373
+\i (02:27:28) zoom in 1 
+\i (02:27:28) setwindow pcb
+\i (02:27:28) zoom in -42.588 -25.569
+\i (02:27:28) trapsize 686
+\i (02:27:39) nctape_full 
+\i (02:28:50) setwindow form.nc_drill
+\i (02:28:50) FORM nc_drill execute  
+\t (02:28:50) Starting Generating NC Drill...
+\i (02:31:56) FORM nc_drill cancel  
+\i (02:31:56) setwindow pcb
+\i (02:31:56) generaledit 
+\i (02:32:05) artwork 
+\i (02:32:11) setwindow form.film_control
+\i (02:32:11) FORM film_control filmtree popup 'Save All Checked' solderT 
+\i (02:32:14) FORM film_control select_all  
+\i (02:32:18) FORM film_control filmtree popup 'Save All Checked' solderB 
+\i (02:32:46) FORM film_control filmtree popup 'Save All Checked' solderT 
+\i (02:33:05) FORM film_control filmtree popup 'Save All Checked' solderT 
+\i (02:33:08) FORM film_control filmtree  solderB 
+\i (02:33:09) FORM film_control filmtree  SilkT 
+\i (02:33:10) FORM film_control filmtree  SilkB 
+\i (02:33:16) FORM film_control undefined_line_width 0.200 
+\i (02:33:16) FORM film_control filmtree  SilkT 
+\i (02:33:17) FORM film_control filmtree  SilkB 
+\i (02:33:18) FORM film_control filmtree  MetalB 
+\i (02:33:18) FORM film_control filmtree  MetalT 
+\i (02:33:19) FORM film_control filmtree  DrillDraw 
+\i (02:33:21) FORM film_control create  
+\i (02:33:22) fillin yes 
+\t (02:33:22) Checking db records
+\t (02:33:22)     checking for orphans...
+\t (02:33:22)     Checked 100 percent
+\w (02:33:22) Run batch DRC to correctly regenerate DRC errs.
+
+\t (02:33:22) Done dbdoctor.
+\t (02:33:22) Starting Create artwork films...
+\w (02:33:22) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (02:33:23) Artwork generated with warnings.
+\i (02:33:25) setwindow pcb
+\i (02:33:25) setwindow text
+\i (02:33:25) close
+\i (02:33:28) setwindow form.film_control
+\i (02:33:28) FORM film_control filmtree popup 'Save All Checked' solderT 
+\i (02:33:31) FORM film_control ok  
+\i (02:33:31) setwindow pcb
+\i (02:33:31) generaledit 
+\i (02:33:41) import file manager 
+\i (02:33:55) filemgr 
+\i (02:33:56) generaledit 
+\i (02:34:51) artwork 
+\i (02:35:01) setwindow form.film_control
+\i (02:35:01) FORM film_control select_all  
+\i (02:35:02) FORM film_control filmtree 'MULTISEL NO' TOP 
+\i (02:35:02) FORM film_control filmtree  TOP 
+\i (02:35:03) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
+\i (02:35:03) FORM film_control filmtree  BOTTOM 
+\i (02:35:05) FORM film_control filmtree popup Cut Design 
+\i (02:35:07) FORM film_control filmtree popup Cut DrillDraw 
+\i (02:35:08) FORM film_control filmtree popup Cut MetalB 
+\i (02:35:09) FORM film_control filmtree popup Cut MetalT 
+\i (02:35:10) FORM film_control filmtree popup Cut SilkB 
+\i (02:35:12) FORM film_control filmtree popup Cut SilkT 
+\i (02:35:13) FORM film_control filmtree popup Cut solderB 
+\i (02:35:15) FORM film_control filmtree popup Cut solderT 
+\i (02:35:16) FORM film_control ok  
+\i (02:35:16) setwindow pcb
+\i (02:35:16) generaledit 
+\i (02:35:19) artwork 
+\i (02:35:42) setwindow form.film_control
+\i (02:35:42) FORM film_control load  
+\i (02:35:52) fillin "FILM_SETUP.txt"
+   (02:35:52) Loading signal.cxt 
+   (02:35:52) t
+\i (02:37:11) FORM film_control ok  
+\i (02:37:12) setwindow pcb
+\i (02:37:12) generaledit 
+\i (02:37:18) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (02:37:20) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
+\i (02:37:21) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (02:37:22) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (02:37:53) exit 
+\e (02:37:53) Do you want to save the changes you made to ex2_rlc.brd?
+\i (02:37:56) fillin yes 
+\t (02:37:56)     Journal end - Thu Jul 11 11:55:14 2019
